@@ -8,3 +8,6 @@ const personalMovieDB = {
     privat: false
 };
 
+const lastFilms = prompt('Один из последних просмотренных фильмов?', "");
+const gradeLastFilm = prompt('На сколько оцените его?', "");
+
